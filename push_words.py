@@ -22,7 +22,7 @@ def wotd():
     notify = Notify()
     notify.send('Word of the Day\n'+listToStr)
 
-schedule.every().day.at('16:00').do(wotd)
+schedule.every().day.at('16:05').do(wotd)
 
 while 1:
     schedule.run_pending()
