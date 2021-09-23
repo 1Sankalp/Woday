@@ -1,1 +1,1 @@
-worker: python push_words.py
+web: python push_words.py
