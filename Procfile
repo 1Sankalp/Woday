@@ -1,1 +1,1 @@
-worker: python push words.py
+worker: python push_words.py
