@@ -1,1 +1,1 @@
-web: python push_words.py
+cmd: python push_words.py
